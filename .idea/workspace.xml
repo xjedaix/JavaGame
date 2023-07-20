@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4eff117-0398-40a2-a42e-613e38e81381" name="Changes" comment="HomeWork3">
+      <change afterPath="$PROJECT_DIR$/src/units/Shooter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Archer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Farmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/InGameInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/InGameInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Monk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Monk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Sniper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Sniper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/magic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/magic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d85f3c2-5d35-41be-b0e5-44dffe85fa87" />
+        <option name="url" value="https://github.com/galina227799/GameJava.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RqKt1cCVq6thiVL9RFe6ieBLyv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GameJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4eff117-0398-40a2-a42e-613e38e81381" name="Changes" comment="" />
+      <created>1687972383221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687972383221</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HomeWork2">
+      <created>1688082981697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688082981697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HomeWork3">
+      <created>1688420441143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688420441143</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork2" />
+    <MESSAGE value="HomeWork3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork3" />
+  </component>
+</project>
